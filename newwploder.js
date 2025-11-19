@@ -1701,4 +1701,5 @@ process.on('SIGINT', () => {
 app.listen(PORT, () => {
     console.log(`🔥 WhatsApp Server Nobita running on http://localhost:${PORT}`);
     console.log(`✅ Server started successfully!`);
+
 });
